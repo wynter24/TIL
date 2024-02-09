@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
+* [웹(Web)](README.md)
