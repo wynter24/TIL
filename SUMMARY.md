@@ -1,14 +1,10 @@
 # Table of contents
 
-* [웹(Web)](README.md)
+* [TIL](README.md)
 
-## Group 1
+## 웹
 
-* [웹](group-1/undefined.md)
-
-***
-
-* [TEST](test.md)
+* [웹](undefined/undefined.md)
 
 ## Group 2
 
