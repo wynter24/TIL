@@ -2,10 +2,10 @@
 
 * [TIL](README.md)
 
-## 웹
+## 웹 <a href="#web" id="web"></a>
 
-* [웹](undefined/undefined.md)
+* [웹](web/undefined.md)
 
-## Group 2
+## 네트워크 <a href="#network" id="network"></a>
 
-* [Page 1](group-2/page-1.md)
+* [Page 1](network/page-1.md)
