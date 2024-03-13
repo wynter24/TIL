@@ -64,25 +64,6 @@ _\*미들웨어(middleware): 소프트웨어와 그것이 운영되는 환경 �
 
 ***
 
-### 사용방법
-
-#### 1. firebase와 연결하기
-
-* [Firebase 훔페이지](https://firebase.google.com/?\_gl=1\*10vm6s0\*\_up\*MQ..\*\_ga\*MzExNTk1MDEwLjE3MTAyNTM1NDA.\*\_ga\_CW55HF8NVT\*MTcxMDI1MzU0MC4xLjAuMTcxMDI1NDA5NC4wLjAuMA..\&hl=ko)에서 프로젝트 생성
-  * 상단에 Go to console 클릭
-* 원하는 앱 클릭(ios/android/web)
-* vscode에 firebase 설치
-  * 여기서부터 사이트에서  보여주는 코드 복붙하면 된다.
-* src 폴더 아래 firebase.js 파일 생성해서 코드 복붙하고 export default app 입력
-
-#### 2. 설정
-
-build > Authentication > 사용하려는 provider(구글) 선택 > 허용 > 지원 이메일 설정 > 저장&#x20;
-
-(필요한 provider는 위 같은 방식으로 모두 추가)
-
-***
-
 참고사이트
 
 ['파이어베이스'(Firebase)란 무엇인가?](https://blog.wishket.com/%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4firebase%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%ED%8C%8C%EC%9D%B4%EC%96%B4%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%8B%AC%EC%B8%B5-%ED%83%90-2/)
