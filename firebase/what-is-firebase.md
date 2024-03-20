@@ -24,7 +24,7 @@ iOS / 안드로이드(Android) / 웹(web) 기반의 개발 / 플러터(Flutter) 
 
 #### 제품
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 개발하기, 개선하기, 키워가기 중에&#x20;
 
@@ -52,7 +52,7 @@ _\*미들웨어(middleware): 소프트웨어와 그것이 운영되는 환경 �
 
 #### 기존 방식과 Firebase의 차이점
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>전통 방식과 Firebase 비교</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>전통 방식과 Firebase 비교</p></figcaption></figure>
 
 **전통적인 방법**
 
