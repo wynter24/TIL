@@ -15,7 +15,7 @@
 
 ## Https의 보안의 핵심, SSL/TLS
 
-> **HTTPS** (_**HyperText Transfer Protocol Secure**_)는 [HTTP](https://developer.mozilla.org/ko/docs/Glossary/HTTP) protocol의 암호화된 버전입니다.&#x20;
+> **HTTPS** (_**HyperText Transfer Protocol Secure**_)는 [HTTP](https://developer.mozilla.org/ko/docs/Glossary/HTTP) protocol의 암호화된 버전이다.
 
 
 
@@ -27,7 +27,7 @@
 
 
 
-### SSL/TLS 동작 방식을 이해하기 위한 사전 지식 - 대칭키, 공개키
+### SSL/TLS 동작 방식을 이해하기 위한 사전 지식 - \[대칭키, 공개키]
 
 먼저 암호화를 위해서는 비밀번호와 같은 개념인 키(key)가 필요하다.
 

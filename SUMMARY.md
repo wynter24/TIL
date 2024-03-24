@@ -7,6 +7,7 @@
 * [7️⃣ OSI 7계층](network/osi-7layer+tcp-ip\_4layer.md)
 * [4️⃣ TCP/IP 4계층](network/tcp-ip-4.md)
 * [🌐 What is Web?](network/what-is-web.md)
+* [↕️ What is HTTP?](network/what-is-http.md)
 * [🙃 HTTP 상태코드](network/http\_status\_code.md)
 * [🤠 Https의 보안 | SSL/TLS](network/https-or-ssl-tls.md)
 
