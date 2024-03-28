@@ -60,7 +60,7 @@ IPv4 / IPv6
 
 ## TCP/IP 4계층
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption><p>OSI 7계층과 TCP/IP 4계층</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt="" width="563"><figcaption><p>OSI 7계층과 TCP/IP 4계층</p></figcaption></figure>
 
 ### OSI 7계층과의 차이점
 
