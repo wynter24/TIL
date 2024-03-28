@@ -15,6 +15,8 @@
 
 * [💠 What is React?](react/what-is-react.md)
 * [🌲 Browser Rendering Process](react/browser-rendering-process.md)
+* [🔃 React Lifecycle (class component)](react/react-lifecycle-class-component.md)
+* [Functional Component Lifecycle](react/functional-component-lifecycle.md)
 
 ## Firebase
 
