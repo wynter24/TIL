@@ -14,7 +14,7 @@ _\*프로토콜: 네트워크 통신에 사용되는 통신 규약_
 
 #### **▸** 요청과 응답 메시지의 형식이 다름
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8).png" alt="" width="563"><figcaption></figcaption></figure>
 
 <details>
 
@@ -49,7 +49,7 @@ payload는 body라고 한다.
 
 <summary>요청(Request) 메시지</summary>
 
-<img src="../.gitbook/assets/image (6).png" alt="" data-size="original">
+<img src="../.gitbook/assets/image (10).png" alt="" data-size="original">
 
 **Method** : HTTP [메서드](https://developer.mozilla.org/ko/docs/Web/HTTP/Methods)\
 보통 클라이언트가 수행하고자 하는 동작을 정의한 `GET`, `POST`, `OPTIONS`, `HEAD`를 의미한다. 일반적으로, 클라이언트는 리소스를 가져오거나(`GET`) HTML 폼의 데이터를 전송(`POST`)한다.\
@@ -70,7 +70,7 @@ payload는 body라고 한다.
 
 <summary>응답(Response) 메시지</summary>
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (12).png>)
 
 **Version of the Protocol** : HTTP 프로토콜의 버전.
 

@@ -77,7 +77,7 @@ ex. 틱톡, 유튜브\
 \*NFT(Non-Fungible Token): 블록체인 기술을 이용해서 디지털 자산의 소유주를 증명하는 가상의 토큰\
 즉, 대체 불가능한 토큰으로 원작자나 소유자를 표시한다.
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ***
 

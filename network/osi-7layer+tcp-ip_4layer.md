@@ -4,7 +4,7 @@
 
 네트워크 통신이 일어나는 과정을 7단계로 나눈 국제 표준화 기구(ISO)에서 정의한 네트워크 표준 모델
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt="OSI 7 Layers" width="375"><figcaption><p>OSI 7계층</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6).png" alt="OSI 7 Layers" width="375"><figcaption><p>OSI 7계층</p></figcaption></figure>
 
 
 
