@@ -25,7 +25,7 @@ React 컴포넌트가 생성될 때, 업데이트될 때, 그리고 제거될 �
 
 ## #️⃣Class Component Lifecycle&#x20;
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/">react-lifecycle-methods-diagram</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p><a href="https://projects.wojtekmaj.pl/react-lifecycle-methods-diagram/">react-lifecycle-methods-diagram</a></p></figcaption></figure>
 
 ### 1. Mounting&#x20;
 

@@ -2,7 +2,7 @@
 
 ## #️⃣Functional Component Lifecycle
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://wavez.github.io/react-hooks-lifecycle/">react-hook-lifecycle</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p><a href="https://wavez.github.io/react-hooks-lifecycle/">react-hook-lifecycle</a></p></figcaption></figure>
 
 
 
