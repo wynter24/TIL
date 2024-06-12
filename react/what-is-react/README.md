@@ -33,10 +33,18 @@ react는 전적으로 UI를 렌더링 하는데 관여하기 때문이다. (view
   `createElement를 쉽게 사용하기 위해`\
   `모든 UI마다 createElement를 사용x (번거로움, 어려움)`\
   `∴ jsx 사용 후 바벨이 이것을 자동으로 createElement(요소 이름, 내용)를 만들어줌`
-* **SPA**(**Single Page Application)** 구현 가능 \
+* **SPA(Single Page Application)** 구현 가능 \
   html 파일을 1개만 쓰고 다른 페이지로 이동할 때 html 부분만 바꾸어 보여준다 → 부드럽게 동작 \
   JS로만 작성 시 코드가 너무 길어진다. \
   그래서 자바스크립트 라이브러리인 리액트를 사용한다.
+*   **CSR(Client-Side Routing)**
+
+    React에서는 React Router와 같은 라이브러리를 사용해 CSR 구현
+
+    이는 브라우저의 URL 변화를 감지하고, JS를 통해 필요한 부분만 로드하고 렌더링한다. \
+    &#x20;→  페이지 전환이 빠르고 부드럽다.
+* **Virtual DOM**\
+  렌더링 시 변경된 부분만 실제 DOM에 적용시켜 불필요한 작업을 최소화하고 성능을 향상시키는 데 도움을 준다.
 * **코드 재사용**\
   Html을 함수, array, object에 보관하여 재사용 할 수 있다. \
   → 대규모 프로젝트일수록 html 관리가 편리해진다.
@@ -47,8 +55,6 @@ react는 전적으로 UI를 렌더링 하는데 관여하기 때문이다. (view
 * **React Native**\
   같은 리액트 문법으로 모바일 앱개발도 가능하다.\
   (Html, CSS문법만 약간 다름)
-* **Virtual DOM**\
-  렌더링 시 변경된 부분만 실제 DOM에 적용시켜 불필요한 작업을 최소화하고 성능을 향상시키는 데 도움을 준다.
 
 ***
 
