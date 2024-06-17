@@ -11,6 +11,7 @@
   * [🙃 HTTP 상태코드](network/what-is-http/http\_status\_code.md)
   * [🤠 Https의 보안 | SSL/TLS](network/what-is-http/https-or-ssl-tls.md)
 * [📍 Routing](network/routing/README.md)
+  * [Client-Side Routing & Server-Side Routing](network/routing/client-side-routing-and-server-side-routing.md)
   * [Routing and rendering methods](network/routing/routing-and-rendering-methods.md)
 
 ## React
