@@ -21,7 +21,8 @@
   * [🔁 Functional Component Lifecycle](react/what-is-react/functional-component-lifecycle.md)
 * [🌲 Browser Rendering Process](react/browser-rendering-process/README.md)
   * [🎏 CSR & SSR](react/browser-rendering-process/csr-and-ssr.md)
-* [React Router](react/react-router.md)
+* [🔗 React Router](react/react-router/README.md)
+  * [Route Settings](react/react-router/route-settings.md)
 * [🌪️ React Hooks](react/react-hooks/README.md)
   * [Page 1](react/react-hooks/page-1.md)
 

@@ -1,8 +1,8 @@
-# React Router
+# 🔗 React Router
 
 ## What is React Router?
 
-[클라이언트 사이드 라우팅](../network/routing/client-side-routing-and-server-side-routing.md)을 구현하기 위한 React 라이브러리이다.
+[클라이언트 사이드 라우팅](../../network/routing/client-side-routing-and-server-side-routing.md)을 구현하기 위한 React 라이브러리이다.
 
 React 애플리케이션 내에서 URL과 UI 상태를 동기화하는데 사용된다.
 
@@ -25,4 +25,8 @@ React에는 router 기능이 없으므로 패키지를 설치해야 한다.
 
 ```jsx
 npm install react-router-dom
+```
+
+```jsx
+yarn add react-router-dom
 ```
