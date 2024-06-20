@@ -1,5 +1,5 @@
 ---
-description: '라우터 설정: react에게 어떤 경로에서 어떤 컴포넌트를 로드할 건지 알려준다.'
+description: '라우터 설정: react에게 어떤 경로에서 어떤 컴포넌트를 로드할지 알려준다.'
 ---
 
 # Route Settings
